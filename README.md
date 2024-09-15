@@ -10,12 +10,11 @@ I am a 7th semester Informatics Engineering student with a passion for various t
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/hirumiai">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hirumiai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirumiai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- dimas@dicoding.com
 - <a href="https://instagram/hirumiai">Instagram</a>
 - <a href="https://facebook/hirumiai">Facebook</a>
