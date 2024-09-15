@@ -16,5 +16,5 @@ I am a 7th semester Informatics Engineering student with a passion for various t
 </p>
 
 ### Reach me on
-- <a href="https://instagram/hirumiai">Instagram</a>
+- <a href="https://www.instagram.com/hirumiai/?">Instagram</a>
 - <a href="https://facebook/hirumiai">Facebook</a>
