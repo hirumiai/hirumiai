@@ -5,7 +5,6 @@ I am a 7th semester Informatics Engineering student with a passion for various t
 - 🌱 I’m currently learning about kotlin for mobile apps
 - 💬 Feel free to ask me about anime etc
 - 📫 How to reach me: hirumiai49@gmail.com
-- ⚡ Fun fact: Poetry writer
   
 ### Github Statistic
 <p align="left">
