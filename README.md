@@ -1,6 +1,4 @@
 ### Hi! 👋 I'm Hirumi.
-
-I am a generalist.
   
 ### Github Statistic
 <p align="left">
