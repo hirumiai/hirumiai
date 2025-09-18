@@ -1,10 +1,6 @@
 ### Hi! 👋 I'm Hirumi.
 
-I am a 7th semester Informatics Engineering student with a passion for various tech stacks, particularly in web and mobile development.
-
-- 🌱 I’m currently learning about kotlin for mobile apps
-- 💬 Feel free to ask me about anime etc
-- 📫 How to reach me: hirumiai49@gmail.com
+I am a generalist.
   
 ### Github Statistic
 <p align="left">
